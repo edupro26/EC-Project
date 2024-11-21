@@ -7,5 +7,5 @@ Bachelor's degree in Computer Science at the Faculty of Sciences of the Universi
 
 ### Authors
 
-Eduardo Proenca nº57551
-Tiago Oliveira nº54979
+- Eduardo Proenca nº57551
+- Tiago Oliveira nº54979
